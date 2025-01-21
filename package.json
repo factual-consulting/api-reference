@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "docs": "^0.3.2-canary.0",
+    "vitepress": "^1.3.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  }
+}
